@@ -17,8 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yutongli718&show_icons=true&locale=en&layout=compact" alt="yutongli718" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yutongli718&show_icons=true&locale=en" alt="yutongli718" /></p>
-
 
 ![GitHub Contribution Snake](https://github.com/yutongli718/yutongli718/raw/output/snake.svg)
 
