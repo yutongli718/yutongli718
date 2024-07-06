@@ -9,7 +9,7 @@
 💻 Currently, I am learning machine learning and deep learning to integrate them with RNA-seq and proteomics for innovative research projects. 🤖
 
 
-⚡ Fun fact: **I'm a part-time DJ/producer**
+⚡ Fun fact: **I'm a part-time DJ / music producer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
