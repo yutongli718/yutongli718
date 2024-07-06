@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yutongli718&label=Profile%20views&color=0e75b6&style=flat" alt="yutongli718" /> </p>
 
-🎓 I'm currently pursuing a Bioengineering master's degree at the University of Pennsylvania. 👩🏻‍🔬
+🎓 I'm currently pursuing a Bioengineering master's degree at the University of Pennsylvania. 👨🏻‍🔬
 
 🧬 I have a strong background in Biochemistry, Cancer Biology and Bioinformatics, with expertise in bulk RNA-seq, single-cell RNA-seq, spatial transcriptomics, and multi-omics analysis. 🔬
 
