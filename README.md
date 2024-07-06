@@ -19,7 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yutongli718&show_icons=true&locale=en" alt="yutongli718" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yutongli718&" alt="yutongli718" /></p>
 
 ![GitHub Contribution Snake](https://github.com/yutongli718/yutongli718/raw/output/snake.svg)
 
