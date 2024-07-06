@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yutong Li</h1>
-<h3 align="center">A master's student in Bioengineering at the University of Pennsylvania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yutongli718&label=Profile%20views&color=0e75b6&style=flat" alt="yutongli718" /> </p>
 
-- 🔭 I’m currently working on **Single cell-RNA-seq and multi-omics analysis**
+🎓 I'm currently pursuing a Bioengineering master's degree at the University of Pennsylvania. 👩🏻‍🔬
 
-- ⚡ Fun fact **I'm a part-time DJ/producer**
+🧬 I have a strong background in Biochemistry, Cancer Biology and Bioinformatics, with expertise in bulk RNA-seq, single-cell RNA-seq, spatial transcriptomics, and multi-omics analysis. 🔬
+
+💻 Currently, I am learning machine learning and deep learning to integrate them with RNA-seq and proteomics for innovative research projects. 🤖
+
+⚡ Fun fact **I'm a part-time DJ/producer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
