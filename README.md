@@ -6,7 +6,7 @@
 
 🧬 I have a strong background in Biochemistry, Cancer Biology and Bioinformatics, with expertise in bulk RNA-seq, single-cell RNA-seq, spatial transcriptomics, and multi-omics analysis. 🔬
 
-💻 Currently, I am learning machine learning and deep learning to integrate them with RNA-seq and proteomics for innovative research projects. 🤖
+💻 Currently, I am using machine learning and deep learning to integrate them with RNA-seq and proteomics for innovative research projects. 🤖
 
 ⚡ Fun fact: I'm a part-time DJ / music producer
 
