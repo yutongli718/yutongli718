@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yutongli718&" alt="yutongli718" /></p>
 
-![GitHub Contribution Snake](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/raw/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/yutongli718/yutongli718/raw/output/github-contribution-grid-snake.svg)
 
