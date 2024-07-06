@@ -8,7 +8,7 @@
 
 💻 Currently, I am learning machine learning and deep learning to integrate them with RNA-seq and proteomics for innovative research projects. 🤖
 
-⚡ Fun fact: **I'm a part-time DJ / music producer**
+⚡ Fun fact: I'm a part-time DJ / music producer
 
 ![Animated GIF](https://camo.githubusercontent.com/dff9ef97c6818405001cb59ca058939500cb9a3fd11e64aee1e301e34c8b9567/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5962396d2d6f485532305141414141692f2545372542412542462545362539442541312545352542302538462545372538422539372e676966)
 
